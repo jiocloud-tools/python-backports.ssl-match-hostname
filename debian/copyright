@@ -5,8 +5,7 @@ Source: http://bitbucket.org/brandon/backports.ssl_match_hostname
 Files: debian/*
 Copyright: (c) 2013, Sebastien Badia <seb@sebian.fr>
 License: other
-Comment: the Debian packaging is licensed under the same terms as the original
-package.
+Comment: the Debian packaging is licensed under the same terms as the original package.
 
 Files: *
 Copyright: (c) 2013, Brandon Craig Rhodes <brandon@rhodesmill.org>
